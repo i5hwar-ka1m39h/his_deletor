@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Delete History by Domain",
+    "version": "1.0",
+    "description": "Delete all history entries for a given domain",
+    "permissions": ["history"],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
